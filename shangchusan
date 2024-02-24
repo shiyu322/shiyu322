@@ -1,0 +1,2 @@
+CDS_OPTS="${CDS_OPTS} -Dcds.config.file=CDS.properties" 
+CDS_OPTS="${CDS_OPTS} -Dcds.config.dir=${CONF_DIR}" 
