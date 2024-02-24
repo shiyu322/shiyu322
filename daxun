@@ -1,0 +1,3 @@
+# Compile 
+JAVAC_OPTS="-classpath ${COMPILE_LCP}" 
+JAVAC_OPTS="${JAVAC_OPTS} CDSBillingSubscriber.java" 
