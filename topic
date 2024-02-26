@@ -1,0 +1,2 @@
+          selector, durable,transactional, jndiCtxFactory, 
+          connFactory, providerURL, topicName); 
