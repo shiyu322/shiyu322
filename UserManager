@@ -1,0 +1,2 @@
+module.security.usermanagerfactory=com.sun.content.server.service.security.UserManagerFactory 
+module.security.subscriber.usermanager=com.sun.content.server.server.security.user.UserImpl 
