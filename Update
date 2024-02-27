@@ -1,0 +1,4 @@
+  { 
+    // Update content binary, binary MIME type 
+    return inContentInfo; 
+  } 
