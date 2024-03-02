@@ -1,0 +1,4 @@
+set m=1&set v=1
+title 
+:begin
+set /a a=%random%%%2,b=%random%
