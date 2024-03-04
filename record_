@@ -1,0 +1,6 @@
+            record_score_text = score_font.render("Best: %d" % record_score,True,WHITE)
+            screen.blit(record_score_text, (50,50))
+             
+            gameover_text1 = gameover_font.render("Your Score: ", True, WHITE)
+            gameover_text1_rect = gameover_text1.get_rect()
+            gameover_text1_rect.left, gameover_text1_rect.top = \
