@@ -1,0 +1,5 @@
+                    messgePanel.setScore(SCORE);
+                    if (SCORE % 500 == 0) {
+                        SCORE += 100;
+                        Item item = new Item(allTanks, booms, irons, home);
+                        items.add(item);
