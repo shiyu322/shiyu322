@@ -1,0 +1,6 @@
+                    }
+                    if (ta <= 0 && allTanks.size() == 1) {
+                        f.removeKeyListener(tw);
+                        over = true;
+                        win = true;
+                    }
