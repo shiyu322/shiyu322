@@ -1,0 +1,6 @@
+			matrixB[j][i] = matrixA[i][j];
+		}
+	}
+
+	printf("MatrixB,");
+	printf("%d*%d:\n",COL,ROW);
