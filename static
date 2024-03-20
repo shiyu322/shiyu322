@@ -1,0 +1,5 @@
+public class FileInputStreamTest03 {
+
+    public static void main(String[] args) {
+        FileInputStream fis = null;
+        try {
