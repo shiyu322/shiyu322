@@ -1,0 +1,5 @@
+            operations.set(nowTime + "@" + dateTimeFormatter.format(expireTime), "A", Duration.between(expireTime, LocalDateTime.now()).abs());
+            expireTime = expireTime.plusSeconds(step);
+        }
+    }
+}
