@@ -1,0 +1,3 @@
+@Slf4j
+@Component
+public class RedisKeyExpirationListener extends KeyExpirationEventMessageListener {
