@@ -1,0 +1,6 @@
+public class ScopeTestController {
+
+    private int num = 0;
+
+    @RequestMapping("/testScope")
+    public void testScope() {
