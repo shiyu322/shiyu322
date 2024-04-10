@@ -1,0 +1,5 @@
+        System.out.println(++num);
+    }
+
+    @RequestMapping("/testScope2")
+    public void testScope2() {
